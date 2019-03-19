@@ -6,3 +6,7 @@ def tortue(m):
     print('tortue')
   return("tortue")
 
+def main():
+  m=4
+  tortue(m)
+  return(0)
